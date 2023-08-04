@@ -19,3 +19,5 @@
 6. Cross-Sectional Average Length of Life Childless: https://read.dukeupress.edu/demography/article/58/1/321/167783/Cross-Sectional-Average-Length-of-Life-Childless
 7. The contribution of survival to changes in the net reproduction rate: https://pubmed.ncbi.nlm.nih.gov/36974694/
 8. Cross-sectional average length of life by parity: Country comparisons: https://www.tandfonline.com/doi/full/10.1080/00324728.2022.2049857
+9. Cause-specific measures of life years lost: https://www.demographic-research.org/articles/volume/29/41/
+10. Cause-specific life-years lost in people with mental disorders: a nationwide, register-based cohort study: https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(17)30429-7/fulltext

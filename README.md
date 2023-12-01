@@ -2,7 +2,6 @@
 
 #### Professor: Vladimir Canudas Romo
 - Homepage: https://researchers.anu.edu.au/researchers/canudas-romo-v
-- Google Scholar: https://scholar.google.com/citations?hl=en&user=G5fllccAAAAJ&view_op=list_works&sortby=pubdate
 
 #### Data source
 1. Human Mortality Database: https://mortality.org/
